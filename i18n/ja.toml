@@ -2,10 +2,10 @@
 other = "Home"
 
 [backToHome]
-other = "Back to home"
+other = "Homeに戻る"
 
 [flip]
-other = "フリップ"
+other = "めくってみて！"
 
 [archives]
 other = "アーカイブ"
