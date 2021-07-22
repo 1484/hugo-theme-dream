@@ -66,6 +66,8 @@
   # reversePostAndAside = true
   # shareInAside = true
   fixedNav = true
+  # collapsibleTags = true
+  # collapseBySummary = true
 
   [params.advanced]
     customCSS = ["css/custom.css"]
@@ -262,6 +264,14 @@ Display share buttons in aside, not under the post title.
 ### fixedNav = true
 
 Make navbar fixed when scrolling.
+
+### collapsibleTags = true
+
+Make `/tags` page's tags collapsible.
+
+### collapseBySummary = true
+
+If your posts contain duplicate titles, you can use this param to continue grouping the titles. The lowest level will use `.Summary` to render.
 
 ## Advanced
 
